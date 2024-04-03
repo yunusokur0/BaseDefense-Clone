@@ -21,6 +21,7 @@ Kullanılan desenler
 &#8226; Enum Pattern
 
 &#8226; IDAMAGE
+
 ---
 
 &#8226; EASY SAVE 3
