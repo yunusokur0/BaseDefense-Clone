@@ -5,8 +5,6 @@ Unity C#
 Kullanılan desenler     
 ---
 &#8226; Singleton Pattern
-
-&#8226; MonoSingleton Pattern
    
 &#8226; Observer Pattern
 
@@ -21,6 +19,8 @@ Kullanılan desenler
 &#8226; Extension Pattern
 
 &#8226; Enum Pattern
+
+&#8226; MonoSingleton Pattern
 
 &#8226; IDAMAGE
 
