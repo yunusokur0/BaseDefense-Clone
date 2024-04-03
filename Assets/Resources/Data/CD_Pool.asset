@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f358da3f80cd81a4eaf297c78e79486c, type: 3}
+  m_Name: CD_Pool
+  m_EditorClassIdentifier: 
+  PoolData:
+  - Prefabs: {fileID: 5495938375531215040, guid: 45775c9401a6a2244aa8711639ad2dd9,
+      type: 3}
+    Count: 30
+  - Prefabs: {fileID: 7075424702593210747, guid: 1a44048c88dd3d94eb8526d7d03a2ada,
+      type: 3}
+    Count: 25
+  - Prefabs: {fileID: 7362561449758498966, guid: 6f0527f02b6beef4a9d5f847f11ba299,
+      type: 3}
+    Count: 10
+  - Prefabs: {fileID: 4206583077562980452, guid: efc2cb4ed5b74f64e9f7847a937efc1f,
+      type: 3}
+    Count: 33
+  - Prefabs: {fileID: 4738307069822695003, guid: 928c200553b1a674dad0748414e858d9,
+      type: 3}
+    Count: 50
+  - Prefabs: {fileID: 284163105575505311, guid: 643a2472189eebc4cb8e1e7847de3899,
+      type: 3}
+    Count: 60
+  - Prefabs: {fileID: 2017253883663280182, guid: 3a874b8942a9c334397fc088409e46c5,
+      type: 3}
+    Count: 5
