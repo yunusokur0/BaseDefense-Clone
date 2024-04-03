@@ -1,3 +1,39 @@
+COLORS RUNNERS CLONE
+---
+Unity C#
+---
+Kullanılan desenler     
+---
+&#8226; Singleton Pattern
+
+&#8226; Observer Pattern
+
+&#8226; Command Pattern
+
+&#8226; Strategy Pattern
+
+&#8226; ScriptableObject Pattern
+
+&#8226; Interface Pattern
+
+&#8226; Extension Pattern
+
+&#8226; Enum Pattern
+
+&#8226; IDAMAGE
+---
+
+&#8226; EASY SAVE 3
+
+&#8226; DOTween
+
+&#8226; MK Toon
+
+&#8226; Joystick
+
+&#8226; Cinemachine
+
+---
 ![sahne1](https://github.com/yunusokur0/BaseDefense-Clone/assets/114630722/6d0b96b4-939c-43cb-be1c-135d5299c086)
 ![sahen 2](https://github.com/yunusokur0/BaseDefense-Clone/assets/114630722/e1139151-6d69-439b-b547-396fc59607a6)
 ![sahne 4](https://github.com/yunusokur0/BaseDefense-Clone/assets/114630722/9b3f63ff-c774-4b0b-a4c4-716d45e23e78)
